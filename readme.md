@@ -1,6 +1,6 @@
 **Objectif :** Dans ces challenges, du Root-Me.org, l'objectif est d'associer une liste de flags successivement découverts grâce à inspection de fichiers sources ou à la recherche de données d'extractions à partir de fichier source à l'accès de l'usage via l'outil intermédiaire d'analyse & d'introspection.
 
-** Méthodologie : **
+**Méthodologie :**
 1) ouverture des fichiers
 2) sauvegarde des contenus
 3) recherche sous google images*
@@ -8,7 +8,7 @@
 5) associations de sources
 6) validation des drapeaux
 
-Le flag est de la forme RM{...}
+***Le flag est de la forme RM{...}***
 
 Voir les solutions.
 
