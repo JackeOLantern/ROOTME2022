@@ -7,7 +7,9 @@
 4) utilisation de plans projetés
 
 5) validation des drapeaux
-=======
+
+=============================================
+
 5) associations de sources
 6) validation des drapeaux
 
