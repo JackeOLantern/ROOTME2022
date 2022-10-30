@@ -7,7 +7,7 @@
 4. utilisation de plans projetés
 5. validation des drapeaux
 
-==========================
+<hr/>
 
 ![Tux, the Linux mascot](./assets/tux.png)
 
