@@ -9,7 +9,7 @@
 
 ==========================
 
-![Tux, the Linux mascot](./assets/images/tux.png)
+![Tux, the Linux mascot](./assets/tux.png)
 
 6. associations de sources
 7. validation des drapeaux
